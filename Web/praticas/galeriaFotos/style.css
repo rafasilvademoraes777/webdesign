@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    max-width: 910px;
+    margin: auto;
+    text-align: center;
+    background-color: lightblue;
+}
+header{
+    background-color: lightcyan;
+    /* border: 2px dashed lightseagreen */
+    border: 2px dotted lightsteelblue
+}
+footer{
+    background-color: rgb(178, 206, 216);
+}
+h1 {font-family: "Sour Gummy", sans-serif;
+    font-size: 60px;
+}
+h2{font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+}
+h2 , p{
+    font-family: "Quicksand", sans-serif;
+}
+figcaption{
+    font-family: "Quicksand", sans-serif;
+}

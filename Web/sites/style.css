@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #586994;
+background: linear-gradient(124deg, rgba(88, 105, 148, 1) 12%, rgba(125, 134, 156, 1) 28%, rgba(232, 247, 238, 1) 61%, rgba(224, 251, 252, 1) 88%);
+}
+#wrapper{
+    background-color: antiquewhite;
+    max-width: 960px;
+    margin: auto;
+     padding: 7px 20px 25px 20px; /* top right bottom left */
+}
+figure{
+    background-color: white;
+    padding: 15px;
+    border: 2px solid #cccc77;
+    border-radius: 15px;
+}
+figcaption{
+    text-align: center;
+    padding-top: 7px;
+    color: #444;
+}
+img{
+    width: 100%;
+    border-radius: 8px;
+}
